@@ -3,20 +3,20 @@ const chalk = require("chalk");
 
 module.exports = {
   // Server Information 
-  servername: "NevolutionPS",
-  serverowner: "akbarrdev",
-  serverwebsite: "https://demo.gtps.app",
-  linkhost: "https://demo.gtps.app/download",
+  servername: "NewTopiaPS",
+  serverowner: "Hans",
+  serverwebsite: "https://demo",
+  linkhost: "https:/mediafire.com/file/770jlwcrij4at0f",
   // Gapunya website? beli di https://gtps.app/pricing aja, cuma 2 dlan
   
   // Path => navigate to the folder like the example
-  exename: "gtps3.exe",
-  exe: "D:/Project GTPS/Source/gtps3.exe",
-  https: "D:/Project GTPS/iGuard/AerosV5.02.exe",
-  onlinecount: "D:/Project GTPS/Source/online_count.txt",
-  player: "D:/Project GTPS/Source/players",
-  world: "D:/Project GTPS/Source/worlds",
-  guild: "D:/Project GTPS/Source/guilds",
+  exename: "StoreItsKyy.exe",
+  exe: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\StoreItsKyy.exe",
+  https: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\3.95 HTTPS\main.js",
+  onlinecount: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\online.txt",
+  player: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\database\players",
+  world: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\database\worlds",
+  guild: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\database\guilds",
 
   // In Game Information
   wotd: "START",

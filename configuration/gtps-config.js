@@ -11,12 +11,12 @@ module.exports = {
   
   // Path => navigate to the folder like the example
   exename: "StoreItsKyy.exe",
-  exe: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\StoreItsKyy.exe",
-  https: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\3.95 HTTPS\main.js",
-  onlinecount: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\online.txt",
-  player: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\database\players",
-  world: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\database\worlds",
-  guild: "C:\Users\Administrator\Downloads\imzulan remake ccp\x64\Release\database\guilds",
+  exe: "C:\Downloads\imzulan remake ccp\x64\Release\StoreItsKyy.exe",
+  https: "C:\Downloads\imzulan remake ccp\x64\Release\3.95 HTTPS\main.js",
+  onlinecount: "C:\Downloads\imzulan remake ccp\x64\Release\online.txt",
+  player: "C:\imzulan remake ccp\x64\Release\database\players",
+  world: "C:\Downloads\imzulan remake ccp\x64\Release\database\worlds",
+  guild: "C:\Downloads\imzulan remake ccp\x64\Release\database\guilds",
 
   // In Game Information
   wotd: "START",
